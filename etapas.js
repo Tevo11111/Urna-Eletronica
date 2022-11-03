@@ -13,7 +13,7 @@ let etapas = [
             },
             {
                 numero: '22222',
-                name: 'Boo',
+                nome: 'Boo',
                 partido: 'MSA',
                 fotos: [
                     {url:'Vereador2.png', legenda: 'Vereador'}
@@ -21,7 +21,7 @@ let etapas = [
             },
             {
                 numero: '33333',
-                name: 'Lilo',
+                nome: 'Lilo',
                 partido: 'LS',
                 fotos: [
                     {url:'Vereador3.png', legenda: 'Vereador'}
